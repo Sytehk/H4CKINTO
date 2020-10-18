@@ -1,6 +1,5 @@
 {
   "name": "H4CKINTO",
-    "version": "1.0.0",
     "description": "H4CKINTO - Remote Android Spying Tool",
     "main": "index.js",
     "scripts": {
